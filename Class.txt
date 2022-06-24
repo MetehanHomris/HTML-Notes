@@ -1,0 +1,20 @@
+Context:
+
+Summary of classes in HTML. Check the link for classes CSS.
+https://www.w3schools.com/html/html_classes.asp
+
+
+Included Elements, Attributes:
+
+class="(input class name)".
+
+----------------------------------------
+
+Class attributes are essentially used to assign elements to certain groups. 
+There is no reason to use classes in HTML if there will be no usage of styling, CSS or JavaScript.
+Because classes are generally assigned to change the styles of many elements.
+
+While using classes in CSS you need to put a "." before them to specify it is a class.
+
+Example Code & Output With Style Usage:
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_capitals

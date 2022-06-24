@@ -1,0 +1,68 @@
+Context:
+
+Summary of links in HTML. Check the link for HTML link's CSS.
+https://www.w3schools.com/html/html_links.asp
+https://replit.com/@MetehanHomris1/HTML-Target
+
+
+Included Elements, Attributes:
+
+<a>, href, target, mailto:, title.
+
+--------------------------------------------------------------------
+
+Simple Linking:
+
+Elements in use: <a>, href.
+
+    To link an element such as a <div>, <img> etc., you have to nest these elements inside an anchor element(<a>).
+    Whatever you want to link your element to just open a href="" attribute inside the first starting anchor tag and
+    add any link you would like into the href attribute. If you want to use an empty href that leads to nowhere use href"#".
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_w3schools
+    https://replit.com/@MetehanHomris1/HTML-Target#link.html
+
+
+Linking to other page in website:
+
+Elements in use: <a>, href.
+
+    Link to a page located in the html folder on the current web site.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_external_relative
+
+    
+    Link to a page located in the same folder as the current page.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_external
+
+
+Linking with target attribute
+
+Elements in use: <a>, href, target.
+
+    Target="_self", this is the default version of the target attribute. 
+    It opens the link in the same window/tab as it is clicked in.
+
+    Example Code & Output:
+    https://replit.com/@MetehanHomris1/HTML-Target#_self.html
+
+    
+    Target="_blank", this attribute opens the link in a different window/tab as it is clicked in.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_target
+    https://replit.com/@MetehanHomris1/HTML-Target#_blank.html
+
+    Target="_parent", this attribute opens the link in the parent frame
+
+    Example Code & Output:
+    https://replit.com/@MetehanHomris1/HTML-Target#_parent.html
+
+    Target="_top", this attribute opens the link in the full body of the window
+
+    Example Code & Output:
+    https://replit.com/@MetehanHomris1/HTML-Target#_top.html

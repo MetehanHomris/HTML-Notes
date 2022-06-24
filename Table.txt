@@ -1,0 +1,26 @@
+Context:
+
+Summary of tables in HTML. Check the link for table CSS.
+https://www.w3schools.com/html/html_tables.asp
+
+
+Included Elements, Attributes:
+
+<table>, <tr>, <th>, <td>.
+
+----------------------------------------
+
+Simple Table:
+
+Elements in use: <table>, <tr>, <th>, <td>.
+
+    To create a simple table first you need to use the table element(<table>) and nest any other table elements in it.
+    In this case, for a simple table we will create 3 rows and to do that we need to open 3 table row elements(<tr>).
+    Inside the first <tr> we will open 3 table headers(<th>). 
+    For the other 2 <tr>'s we will open 3 table data elements(<td>) each. 
+    These table data will be put on the table in the order it is written.
+
+    To make the tables more understandable you can add borders or anything else with CSS.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table3

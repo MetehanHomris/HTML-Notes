@@ -1,0 +1,42 @@
+Context:
+
+Summary of listing in HTML. Check the lists for HTML list's CSS.
+https://www.w3schools.com/html/html_lists.asp
+
+
+Included Elements, Attributes:
+
+<li>, <ul>, <ol>, <dl>, <dt>, <dd>.
+
+----------------------------------------
+
+Unordered list:
+
+Elements in use: <li>, <ul>.
+
+    To create Unordered lists, use the list element(<li>) and nest it into an unordered list element(<ul>). 
+    Unordered lists basically create a list but with bullet points.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered
+
+Ordered list:
+
+Elements in use: <li>, <ol>.
+
+    To create Ordered lists, use the list element(<li>) and nest it into an ordered list element(<ol>). 
+    Ordered lists basically create a list but with number points.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_ordered
+
+Descriptive list:
+
+Elements in use: <dl>, <dt>, <dd>.
+
+    To create Descriptive lists, use the descriptive list element(<dl>) and into it an descriptive term element(<dt>). 
+    If you want to describe the term use the description element(<dd>) and use it under the term you want to describe.
+
+    Example Code & Output:
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_description
+

@@ -1,0 +1,19 @@
+Context:
+
+Summary of ID's in HTML. Check the link for ID's CSS.
+https://www.w3schools.com/html/html_id.asp
+
+
+Included Elements, Attributes:
+
+id="(input id name)".
+
+----------------------------------------
+
+ID attributes are essentially used to assign elements a unique ID. ID' are 95% of the time used to specifiy a singular element.
+There is no reason to use classes in HTML if there will be no usage of styling, CSS or JavaScript.
+
+While using classes in CSS you need to put a "#" before them to specifiy it is an ID.
+
+Example Code & Output With Style Usage:
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_id_css
